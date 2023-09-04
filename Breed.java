@@ -1,0 +1,3 @@
+public enum Breed {
+    GERMAN_SHEPHERD, BEAGLE, DALMATIAN, MIXED
+}
